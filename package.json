@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "image-promise": "^7.0.1",
-    "konva": "^8.3.0",
+    "konva": "^8.4.3",
     "parse-css-color": "^0.1.2"
   },
   "scripts": {
